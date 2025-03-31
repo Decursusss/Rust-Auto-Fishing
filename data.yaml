@@ -1,0 +1,5 @@
+train: C:\Users\galag\PycharmProjects\RustRibalka\DataSet3\train\images
+val: C:\Users\galag\PycharmProjects\RustRibalka\DataSet3\train\images
+
+nc: 1
+names: ['bobber']
