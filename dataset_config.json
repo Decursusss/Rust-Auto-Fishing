@@ -1,0 +1,16 @@
+{
+    "hotkeys": {
+        "start_recording": "f1",
+        "stop_recording": "f2",
+        "save_image": "f3",
+        "add_box": "f4",
+        "exit": "esc"
+    },
+    "image_settings": {
+        "resolution": [
+            1920,
+            1080
+        ],
+        "format": "png"
+    }
+}
